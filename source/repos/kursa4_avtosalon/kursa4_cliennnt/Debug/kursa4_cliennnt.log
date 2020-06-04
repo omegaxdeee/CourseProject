@@ -1,0 +1,10 @@
+﻿  Client.cpp
+E:\kursa4_avtosalon\kursa4_cliennnt\Client.cpp(161,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\kursa4_avtosalon\kursa4_cliennnt\Client.cpp(740,38): warning C4018: >: несоответствие типов со знаком и без знака
+E:\kursa4_avtosalon\kursa4_cliennnt\Client.cpp(763,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\kursa4_avtosalon\kursa4_cliennnt\Client.cpp(845,50): warning C4018: >=: несоответствие типов со знаком и без знака
+E:\kursa4_avtosalon\kursa4_cliennnt\Client.cpp(879,49): warning C4018: >=: несоответствие типов со знаком и без знака
+E:\kursa4_avtosalon\kursa4_cliennnt\Client.cpp(901,49): warning C4018: >=: несоответствие типов со знаком и без знака
+E:\kursa4_avtosalon\kursa4_cliennnt\Client.cpp(923,49): warning C4018: >=: несоответствие типов со знаком и без знака
+E:\kursa4_avtosalon\kursa4_cliennnt\Client.cpp(945,18): warning C4018: >=: несоответствие типов со знаком и без знака
+  kursa4_cliennnt.vcxproj -> E:\kursa4_avtosalon\Debug\kursa4_cliennnt.exe

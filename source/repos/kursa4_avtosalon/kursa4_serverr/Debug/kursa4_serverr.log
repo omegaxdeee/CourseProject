@@ -1,0 +1,7 @@
+﻿  Server.cpp
+E:\kursa4_avtosalon\kursa4_serverr\Server.cpp(19,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\kursa4_avtosalon\kursa4_serverr\Server.cpp(26,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\kursa4_avtosalon\kursa4_serverr\Server.cpp(229,8): warning C4101: answer_count: неиспользованная локальная переменная
+E:\kursa4_avtosalon\kursa4_serverr\Server.cpp(260,11): warning C4101: W: неиспользованная локальная переменная
+E:\kursa4_avtosalon\kursa4_serverr\Server.cpp(300,8): warning C4101: answer_count: неиспользованная локальная переменная
+  kursa4_serverr.vcxproj -> E:\kursa4_avtosalon\Debug\kursa4_serverr.exe
